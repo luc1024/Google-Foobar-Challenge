@@ -1,0 +1,16 @@
+foobar:~/escape-pods luc1024$ submit solution.py 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: y
+Submitting solution...
+Submission: SUCCESSFUL. Completed in: 7 hrs, 41 mins, 6 secs.
+
+Current level: 4
+Challenges left to complete level: 1
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3: 100% [==========================================]
+Level 4:  50% [=====================.....................]
+Level 5:   0% [..........................................]
+
+Type request to request a new challenge now, or come back later.

@@ -1,0 +1,31 @@
+foobar:~/fuel-injection-perfection luc1024$ verify solution.py 
+Verifying solution...
+Test 1 passed!
+Test 2 passed!
+Test 3 failed  [Hidden]
+Test 4 failed  [Hidden]
+Test 5 failed  [Hidden]
+Test 6 failed  [Hidden]
+Test 7 failed  [Hidden]
+Test 8 failed  [Hidden]
+Test 9 passed! [Hidden]
+Test 10 failed  [Hidden]
+foobar:~/fuel-injection-perfection luc1024$ verify solution.py 
+Verifying solution...
+All test cases passed. Use submit solution.py to submit your solution
+foobar:~/fuel-injection-perfection luc1024$ submit solution.py 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: y
+Submitting solution...
+Submission: SUCCESSFUL. Completed in: 1 hr, 28 mins, 2 secs.
+
+Current level: 3
+Challenges left to complete level: 2
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3:  33% [=============.............................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+Type request to request a new challenge now, or come back later.
